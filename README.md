@@ -1,2 +1,98 @@
 # Awesome-DotNET-MCP
  Awesome ModelContextProtocol resources - A curated list of MCP DotNET resources
+
+> A curated list of [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) resources.
+
+The Model Context Protocol (MCP) is an open protocol published by [Anthropic](https://www.anthropic.com/) in November 2024. It enables seamless integration between LLM applications and external data sources and tools. This repo is not just about MCP Servers but the whole ecosystem arround the protocol itself.
+
+
+## Contents
+
+- [SDKs](#sdks)
+- [Servers](#servers)
+- [Tools](#tools)
+- [Learn](#learns)
+
+## SDKs
+
+### dotnet sdk
+- [MCPSharp](https://github.com/afrise/MCPSharp) - MCPSharp is a .NET library that helps you build Model Context Protocol (MCP) servers and clients
+- [mcpdotnet](https://github.com/PederHP/mcpdotnet) - A .NET implementation of the Model Context Protocol (MCP), enabling .NET applications to connect to and interact with MCP clients and servers
+- [ModelContextProtocol.NET](https://github.com/salty-flower/ModelContextProtocol.NET) - A C# SDK implementation of the Model Context Protocol (MCP)
+
+### Offcial
+- [Python](https://github.com/modelcontextprotocol/python-sdk) - Official Python SDK.
+- [Typescript](https://github.com/modelcontextprotocol/typescript-sdk) - Official Typescript SDK.
+
+### Community
+- [Rust](https://github.com/jeanlucthumm/modelcontextprotocol-rust-sdk) - Community-driven Rust adaptation of offcials SDK. **:warning: Under development**.
+- [Go](https://github.com/mark3labs/mcp-go) - Community-driven Go adaptation of offcials SDK. **:warning: Under development**.
+
+## Servers
+
+All current MCP servers are not in one language. Here is a list from official repository with associated programming languages.
+
+### DotNET 
+- [NetContextServer](https://github.com/willibrandon/NetContextServer) - A .NET Codebase Context MCP Server that provides AI assistants with access to your .NET codebase through the MCP
+
+### Typescript
+
+#### Official
+- [FileSystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
+- [Github](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - Repository management, file operations, and GitHub API integration.
+- [Gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) - GitLab API, enabling project management.
+- [Google Drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - File access and search capabilities for Google Drive.
+- [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - Read-only database access with schema inspection.
+- [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Channel management and messaging capabilities.
+- [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - Knowledge graph-based persistent memory system.
+- [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation and web scraping.
+- [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Web and local search using Brave's Search API.
+- [Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Location services, directions, and place details.
+- [AWS Knowledge Base Retrieval](https://github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server) - Retrieve information from the AWS Knowledge Base using the Bedrock Agent Runtime.
+
+#### Community
+- [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1).
+- [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Interact with your crash reporting and real using monitoring data on your Raygun account.
+- [Kagi](https://github.com/ac3xx/mcp-servers-kagi) - A Model Context Protocol server implementation for Kagi's API.
+- [Exa.ai](https://github.com/theishangoswami/exa-mcp-server) - Use the Exa AI Search API for web searches.
+- [Youtube](https://github.com/anaisbetts/mcp-youtube) - Uses `yt-dlp` to download subtitles from YouTube.
+- [AppleScript](https://github.com/joshrutkowski/applescript-mcp) - Implements interaction with macOS via AppleScript.
+- [Make](https://github.com/integromat/make-mcp-server) - Turn Make scenarios into callable tools for AI assistants.
+- [VSCode Devtools (Bifrost)](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode IDE and use semantic tools like `find_usages`.
+
+### Python
+
+#### Official
+- [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) - Tools to read, search, and manipulate Git repositories.
+- [Sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) - Database interaction and business intelligence capabilities.
+- [Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Retrieving and analyzing issues from Sentry.io.
+- [Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - Web content fetching and conversion for efficient LLM usage.
+- [Stdio](https://github.com/modelcontextprotocol/python-sdk/blob/main/src/mcp/server/stdio.py) - Communicate with an MCP client through standard input/output streams.
+- [Websocket](https://github.com/modelcontextprotocol/python-sdk/blob/main/src/mcp/server/websocket.py) - WebSocket server transport. This is an ASGI application, suitable to be used with a framework like Starlette and a server like Hypercorn.
+
+#### Community
+- [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude.
+- [Phabricator](https://github.com/baba786/phabricator-mcp-server) - Interact with Phabricator API.
+- [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Interact with Obsidian.
+- [Filesystem](https://github.com/philgei/mcp_server_filesystem) - File operations with configurable access controls.
+- [ZenML](https://github.com/zenml-io/mcp-zenml) - Chat with your MLOps and LLMOps pipelines using the official ZenML MCP server.
+
+### Go
+- [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
+
+## Tools
+
+### Official
+- [Server inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers.
+
+### Community
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/samples/Demos/ModelContextProtocol) - Support for Semantic kernel.
+- [MCP Installer](https://github.com/anaisbetts/mcp-installer) - A server that installs other MCP servers for you.
+- [MCP get](https://github.com/michaellatman/mcp-get) - A command-line tool for installing and managing Model Context Protocol (MCP) servers.
+- [Fast MCP](https://github.com/jlowin/fastmcp) - Create tools, expose resources, and define prompts with clean Pythonic code.
+
+## Learns
+
+### Articles
+- [Building MCP Servers in C# with MCPSharp: A Complete Tutorial](https://medium.com/@afrise/building-ai-powered-tools-in-c-with-mcpsharp-a-complete-tutorial-0daadc63cfbc)
+- [Integrating Model Context Protocol Tools with Semantic Kernel: A Step-by-Step Guide](https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/)
