@@ -23,6 +23,7 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 ### Offcial
 - [Python](https://github.com/modelcontextprotocol/python-sdk) - Official Python SDK.
 - [Typescript](https://github.com/modelcontextprotocol/typescript-sdk) - Official Typescript SDK.
+- [Java](https://github.com/modelcontextprotocol/java-sdk) - Official Java SDK
 
 ### Community
 - [Rust](https://github.com/jeanlucthumm/modelcontextprotocol-rust-sdk) - Community-driven Rust adaptation of offcials SDK. **:warning: Under development**.
