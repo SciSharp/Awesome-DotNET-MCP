@@ -28,6 +28,7 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 ### Community
 - [Rust](https://github.com/jeanlucthumm/modelcontextprotocol-rust-sdk) - Community-driven Rust adaptation of offcials SDK. **:warning: Under development**.
 - [Go](https://github.com/mark3labs/mcp-go) - Community-driven Go adaptation of offcials SDK. **:warning: Under development**.
+- [FastMCP](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers capable of handling client sessions.
 
 ## Servers
 
