@@ -55,6 +55,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Web and local search using Brave's Search API.
 - [Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Location services, directions, and place details.
 - [AWS Knowledge Base Retrieval](https://github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server) - Retrieve information from the AWS Knowledge Base using the Bedrock Agent Runtime.
+- [WASImancer](https://github.com/sea-monkeys/WASImancer) - WASImancer is an innovative Model Context Protocol (MCP) server built with Node.js that enhances tool execution through WebAssembly plugins
 
 #### Community
 - [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1).
