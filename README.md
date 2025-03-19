@@ -38,7 +38,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [NetContextServer](https://github.com/willibrandon/NetContextServer) - A .NET Codebase Context MCP Server that provides AI assistants with access to your .NET codebase through the MCP
 - [PiecesMCPNet](https://github.com/jimbobbennett/PiecesMCPNet) - A C# implementation of MCP  using Pieces Long-Term Memory powered by the Pieces C# SDK.
 - [DotNetMetadataMcpServer](https://github.com/V0v1kkk/DotNetMetadataMcpServer) - A Model Context Protocol (MCP) server that provides detailed type information from .NET projects for AI coding agents
-- [mcp_demo](https://github.com/Ming-jiayou/mcp_demo) - https://github.com/Ming-jiayou/mcp_demo
+- [mcp_demo](https://github.com/Ming-jiayou/mcp_demo) - A simple example of building an MCP client using C# 
 
 ### Typescript
 
