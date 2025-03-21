@@ -16,8 +16,8 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 ## SDKs
 
 ### dotnet sdk
+- [Offcial sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients, maintained by Microsoft
 - [MCPSharp](https://github.com/afrise/MCPSharp) - MCPSharp is a .NET library that helps you build Model Context Protocol (MCP) servers and clients
-- [mcpdotnet](https://github.com/PederHP/mcpdotnet) - A .NET implementation of the Model Context Protocol (MCP), enabling .NET applications to connect to and interact with MCP clients and servers
 - [ModelContextProtocol.NET](https://github.com/salty-flower/ModelContextProtocol.NET) - A C# SDK implementation of the Model Context Protocol (MCP)
 - [McpDotNet.Extensions.SemanticKernel](https://github.com/StefH/McpDotNet.Extensions.SemanticKernel) - Microsoft SemanticKernel integration for the Model Context Protocol using mcpdotnet. Enables seamless use of MCP tools as AI functions.
 
