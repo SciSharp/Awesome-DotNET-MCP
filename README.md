@@ -94,6 +94,7 @@ All current MCP servers are not in one language. Here is a list from official re
 ### Official
 - [Server inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers.
 - [supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
+- [mcp-agents-hub](https://github.com/mcp-agents-ai/mcp-agents-hub) - The open-source ecosystem for building, discovering, and deploying Model Context Protocol servers and clients
 
 ### Community
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/samples/Demos/ModelContextProtocol) - Support for Semantic kernel.
