@@ -69,7 +69,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [AppleScript](https://github.com/joshrutkowski/applescript-mcp) - Implements interaction with macOS via AppleScript.
 - [Make](https://github.com/integromat/make-mcp-server) - Turn Make scenarios into callable tools for AI assistants.
 - [VSCode Devtools (Bifrost)](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode IDE and use semantic tools like `find_usages`.
-
+- [mem0-mcp](https://github.com/pinkpixel-dev/mem0-mcp) - Enables long-term memory for AI agents through a simple API or as a drop-in MCP server
 ### Python
 
 #### Official
