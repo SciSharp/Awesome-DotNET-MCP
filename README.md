@@ -44,6 +44,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [RhinoMCPServer](https://github.com/4kk11/RhinoMCPServer) - A plugin for executing Model Context Protocol (MCP) server in Rhinoceros. It provides Rhino's functionality as MCP tools and enables efficient communication with MCP clients
 - [revit-mcp-plugin](https://github.com/revit-mcp/revit-mcp-plugin) - This project is the Revit client (receives messages, operates Revit) and needs to be used in conjunction with revit-mcp(provides tools to AI).
 - [spicedb-mcp](https://github.com/DGuhr/spicedb-mcp) - highly experimental MCP to ask spicedb some questions
+- [mcpservers](https://github.com/StefH/mcpservers) - A collection of MCP (Model Context Protocol) servers as dotnet tools
 
 
 #### Official
