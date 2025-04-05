@@ -109,3 +109,4 @@ All current MCP servers are not in one language. Here is a list from official re
 ### Articles
 - [Building MCP Servers in C# with MCPSharp: A Complete Tutorial](https://medium.com/@afrise/building-ai-powered-tools-in-c-with-mcpsharp-a-complete-tutorial-0daadc63cfbc)
 - [Integrating Model Context Protocol Tools with Semantic Kernel: A Step-by-Step Guide](https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/)
+- [Simplifying Model Context Protocol (MCP) Server Distribution with .NET Global Tools](https://nikiforovall.github.io/dotnet/2025/04/02/mcp-template-getting-started.html)
