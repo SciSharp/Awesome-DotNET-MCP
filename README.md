@@ -98,6 +98,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Server inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers.
 - [supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
 - [mcp-agents-hub](https://github.com/mcp-agents-ai/mcp-agents-hub) - The open-source ecosystem for building, discovering, and deploying Model Context Protocol servers and clients
+- [mcp-k8m](https://github.com/weibaohui/k8m) - k8m is an AI-driven Mini Kubernetes AI Dashboard lightweight console tool designed to simplify cluster management. It is built on AMIS and uses kom as the Kubernetes API client. k8m comes with built-in interaction capabilities powered by the Qwen2.5-Coder-7B model and supports integration with your private AI models
 
 ### Community
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/samples/Demos/ModelContextProtocol) - Support for Semantic kernel.
