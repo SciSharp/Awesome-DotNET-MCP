@@ -45,6 +45,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [revit-mcp-plugin](https://github.com/revit-mcp/revit-mcp-plugin) - This project is the Revit client (receives messages, operates Revit) and needs to be used in conjunction with revit-mcp(provides tools to AI).
 - [spicedb-mcp](https://github.com/DGuhr/spicedb-mcp) - highly experimental MCP to ask spicedb some questions
 - [mcpservers](https://github.com/StefH/mcpservers) - A collection of MCP (Model Context Protocol) servers as dotnet tools
+- [iotgateway](https://github.com/iioter/iotgateway) - A cross-platform IoT gateway based on .net8
 
 
 #### Official
