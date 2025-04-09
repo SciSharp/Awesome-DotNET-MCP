@@ -105,6 +105,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [MCP Installer](https://github.com/anaisbetts/mcp-installer) - A server that installs other MCP servers for you.
 - [MCP get](https://github.com/michaellatman/mcp-get) - A command-line tool for installing and managing Model Context Protocol (MCP) servers.
 - [Fast MCP](https://github.com/jlowin/fastmcp) - Create tools, expose resources, and define prompts with clean Pythonic code.
+- [MCPP.NET](https://github.com/xuzeyu91/MCPP.Net) - MCPP.Net is an implementation of the Model Context Protocol (MCP) server based on.NET 8, which supports dynamically converting Swagger APIs into MCP tools, enabling AI tools to call these APIs via the MCP protocol.
 
 ## Learns
 
