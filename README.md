@@ -46,6 +46,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [spicedb-mcp](https://github.com/DGuhr/spicedb-mcp) - highly experimental MCP to ask spicedb some questions
 - [mcpservers](https://github.com/StefH/mcpservers) - A collection of MCP (Model Context Protocol) servers as dotnet tools
 - [iotgateway](https://github.com/iioter/iotgateway) - A cross-platform IoT gateway based on .net8
+- [iotsharp](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 
 
 #### Official
