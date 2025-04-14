@@ -47,6 +47,8 @@ All current MCP servers are not in one language. Here is a list from official re
 - [mcpservers](https://github.com/StefH/mcpservers) - A collection of MCP (Model Context Protocol) servers as dotnet tools
 - [iotgateway](https://github.com/iioter/iotgateway) - A cross-platform IoT gateway based on .net8
 - [iotsharp](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
+- [mcp-auth-servers](https://github.com/Azure-Samples/mcp-auth-servers) - Reference servers that demo how authentication works with the current Model Context Protocol spec.
+- [remote-mcp-webapp-dotnet](https://github.com/Azure-Samples/remote-mcp-webapp-dotnet) - This project contains a .NET web app implementation of a Model Context Protocol (MCP) server. The application is designed to be deployed to Azure App Service.
 
 
 #### Official
