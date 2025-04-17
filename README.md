@@ -52,6 +52,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [remote-mcp-functions-dotnet](https://github.com/Azure-Samples/remote-mcp-functions-dotnet) - This is a quickstart template to easily build and deploy a custom remote MCP server to the cloud using Azure functions.
 - [MCP_PostgreSQL](https://github.com/NghiaBHT/MCP_PostgreSQL) - MCP_PostgreSQL is a .NET solution that provides integration between Model Context Protocol (MCP) and PostgreSQL databases
 - [KnowledgeBaseServer](https://github.com/mbcrawfo/KnowledgeBaseServer) - Model Context Protocol (MCP) server allowing LLMs to store and search knowledge in a SQLite database
+- [azure-mcp](https://github.com/Azure/azure-mcp) - This repository is for development of the Azure MCP Server, bringing the power of Azure to your agents.
 
 
 #### Official
