@@ -53,6 +53,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [MCP_PostgreSQL](https://github.com/NghiaBHT/MCP_PostgreSQL) - MCP_PostgreSQL is a .NET solution that provides integration between Model Context Protocol (MCP) and PostgreSQL databases
 - [KnowledgeBaseServer](https://github.com/mbcrawfo/KnowledgeBaseServer) - Model Context Protocol (MCP) server allowing LLMs to store and search knowledge in a SQLite database
 - [azure-mcp](https://github.com/Azure/azure-mcp) - This repository is for development of the Azure MCP Server, bringing the power of Azure to your agents.
+- [dotnet-mcp-hero](https://github.com/danielmackay/dotnet-mcp-hero) - A .NET-based superhero management system comprised of a Clean Architecture API backend and a Model Context Protocol (MCP) server for AI assistant integration.
 
 
 #### Official
