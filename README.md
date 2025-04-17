@@ -50,6 +50,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [mcp-auth-servers](https://github.com/Azure-Samples/mcp-auth-servers) - Reference servers that demo how authentication works with the current Model Context Protocol spec.
 - [remote-mcp-webapp-dotnet](https://github.com/Azure-Samples/remote-mcp-webapp-dotnet) - This project contains a .NET web app implementation of a Model Context Protocol (MCP) server. The application is designed to be deployed to Azure App Service.
 - [remote-mcp-functions-dotnet](https://github.com/Azure-Samples/remote-mcp-functions-dotnet) - This is a quickstart template to easily build and deploy a custom remote MCP server to the cloud using Azure functions.
+- [MCP_PostgreSQL](https://github.com/NghiaBHT/MCP_PostgreSQL) - MCP_PostgreSQL is a .NET solution that provides integration between Model Context Protocol (MCP) and PostgreSQL databases
 
 
 #### Official
