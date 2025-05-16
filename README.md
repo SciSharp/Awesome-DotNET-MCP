@@ -55,6 +55,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [azure-mcp](https://github.com/Azure/azure-mcp) - This repository is for development of the Azure MCP Server, bringing the power of Azure to your agents.
 - [dotnet-mcp-hero](https://github.com/danielmackay/dotnet-mcp-hero) - A .NET-based superhero management system comprised of a Clean Architecture API backend and a Model Context Protocol (MCP) server for AI assistant integration.
 - [mcp-dotnet-samples](https://github.com/microsoft/mcp-dotnet-samples) - This collection of samples demonstrates how to leverage the Model Context Protocol in .NET applications.
+- [McpMidiSequencer](https://github.com/bradygaster/McpMidiSequencer) - 
 
 
 #### Official
