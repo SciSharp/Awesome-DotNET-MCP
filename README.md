@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/scisharp-awesome-dotnet-mcp-badge.png)](https://mseep.ai/app/scisharp-awesome-dotnet-mcp)
+
 # Awesome-DotNET-MCP
  Awesome ModelContextProtocol resources - A curated list of MCP DotNET resources
 
