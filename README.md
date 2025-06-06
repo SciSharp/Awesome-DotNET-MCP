@@ -59,6 +59,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [mcp-dotnet-samples](https://github.com/microsoft/mcp-dotnet-samples) - This collection of samples demonstrates how to leverage the Model Context Protocol in .NET applications.
 - [McpMidiSequencer](https://github.com/bradygaster/McpMidiSequencer) -
 - [mcp-auth-servers](https://github.com/Azure-Samples/mcp-auth-servers) - Reference MCP servers that demo how authentication works with the current Model Context Protocol spec
+- [QuickMCP](https://github.com/gunpal5/QuickMCP) - Effortlessly Build Model Context Protocol Servers with OpenAPI or Swagger or Google Discovery Specifications
 
 
 #### Official
