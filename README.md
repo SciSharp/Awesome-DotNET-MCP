@@ -60,6 +60,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [McpMidiSequencer](https://github.com/bradygaster/McpMidiSequencer) -
 - [mcp-auth-servers](https://github.com/Azure-Samples/mcp-auth-servers) - Reference MCP servers that demo how authentication works with the current Model Context Protocol spec
 - [QuickMCP](https://github.com/gunpal5/QuickMCP) - Effortlessly Build Model Context Protocol Servers with OpenAPI or Swagger or Google Discovery Specifications
+- [eShopLite](https://github.com/Azure-Samples/eShopLite) - eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and mo
 
 
 #### Official
