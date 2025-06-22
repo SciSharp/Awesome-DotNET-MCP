@@ -64,6 +64,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [mcp-template-dotnet](https://github.com/NikiforovAll/mcp-template-dotnet) - This repository contains a template for creating a Model Context Protocol (MCP) application in .NET. It provides a basic structure and example code to help you get started with building your own MCP-enabled applications
 - [mcpservers](https://github.com/StefH/mcpservers) - A collection of MCP (Model Context Protocol) servers as dotnet tools
 - [hangfire-mcp](https://github.com/NikiforovAll/hangfire-mcp) - Enqueue background jobs using Hangfire MCP server
+- [https://github.com/shyam-menon/MCPSecure](https://github.com/shyam-menon/MCPSecure) - Secure MCP Server and Client Samples
 
 
 #### Official
