@@ -65,6 +65,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [mcpservers](https://github.com/StefH/mcpservers) - A collection of MCP (Model Context Protocol) servers as dotnet tools
 - [hangfire-mcp](https://github.com/NikiforovAll/hangfire-mcp) - Enqueue background jobs using Hangfire MCP server
 - [https://github.com/shyam-menon/MCPSecure](https://github.com/shyam-menon/MCPSecure) - Secure MCP Server and Client Samples
+- [runjs](https://github.com/CharlieDigital/runjs) - An MCP server that lets LLMs generate and execute JavaScript safely in an embedded .NET runtime sandbox using the Jint library. Includes support for fetch and API secrets management + injection into API calls
 
 
 #### Official
