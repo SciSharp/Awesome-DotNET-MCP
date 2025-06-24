@@ -66,6 +66,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [hangfire-mcp](https://github.com/NikiforovAll/hangfire-mcp) - Enqueue background jobs using Hangfire MCP server
 - [https://github.com/shyam-menon/MCPSecure](https://github.com/shyam-menon/MCPSecure) - Secure MCP Server and Client Samples
 - [runjs](https://github.com/CharlieDigital/runjs) - An MCP server that lets LLMs generate and execute JavaScript safely in an embedded .NET runtime sandbox using the Jint library. Includes support for fetch and API secrets management + injection into API calls
+- [sjtu-mcp-server](https://github.com/SJTU-Geek/sjtu-mcp-server) - 本项目基于MCP协议构建校园服务Agent，通过标准化接口将大模型与校园信息系统（如课表查询、图书馆预约、成绩分析等）深度对接，用户仅需自然语言指令即可完成复杂操作
 
 
 #### Official
