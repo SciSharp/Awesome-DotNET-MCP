@@ -69,7 +69,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [sjtu-mcp-server](https://github.com/SJTU-Geek/sjtu-mcp-server) - 本项目基于MCP协议构建校园服务Agent，通过标准化接口将大模型与校园信息系统（如课表查询、图书馆预约、成绩分析等）深度对接，用户仅需自然语言指令即可完成复杂操作
 - [DBChatPro](https://github.com/alex-wolf-ps/dbchatpro) - DBChatPro is an application designed to facilitate seamless communication with your database.
 - [AvaloniaUI.MCP](https://github.com/decriptor/AvaloniaUI.MCP) - Professional Model Context Protocol Server for AvaloniaUI Development
-
+- [SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 
 #### Official
 - [FileSystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
