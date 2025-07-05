@@ -67,6 +67,8 @@ All current MCP servers are not in one language. Here is a list from official re
 - [https://github.com/shyam-menon/MCPSecure](https://github.com/shyam-menon/MCPSecure) - Secure MCP Server and Client Samples
 - [runjs](https://github.com/CharlieDigital/runjs) - An MCP server that lets LLMs generate and execute JavaScript safely in an embedded .NET runtime sandbox using the Jint library. Includes support for fetch and API secrets management + injection into API calls
 - [sjtu-mcp-server](https://github.com/SJTU-Geek/sjtu-mcp-server) - 本项目基于MCP协议构建校园服务Agent，通过标准化接口将大模型与校园信息系统（如课表查询、图书馆预约、成绩分析等）深度对接，用户仅需自然语言指令即可完成复杂操作
+- [DBChatPro](https://github.com/alex-wolf-ps/dbchatpro) - DBChatPro is an application designed to facilitate seamless communication with your database.
+- [AvaloniaUI.MCP](https://github.com/decriptor/AvaloniaUI.MCP) - Professional Model Context Protocol Server for AvaloniaUI Development
 
 
 #### Official
@@ -131,9 +133,11 @@ All current MCP servers are not in one language. Here is a list from official re
 - [MCPP.NET](https://github.com/xuzeyu91/MCPP.Net) - MCPP.Net is an implementation of the Model Context Protocol (MCP) server based on.NET 8, which supports dynamically converting Swagger APIs into MCP tools, enabling AI tools to call these APIs via the MCP protocol.
 - [McpServerToolGenerator/](https://github.com/dotnetspark/McpServerToolGenerator/) - McpServerToolsGenerator is a Roslyn incremental source generator for C# that automatically generates static tool classes for server-side tools in the ModelContextProtocol (MCP) ecosystem
 
+
 ## Learns
 
 ### Articles
 - [Building MCP Servers in C# with MCPSharp: A Complete Tutorial](https://medium.com/@afrise/building-ai-powered-tools-in-c-with-mcpsharp-a-complete-tutorial-0daadc63cfbc)
 - [Integrating Model Context Protocol Tools with Semantic Kernel: A Step-by-Step Guide](https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/)
 - [Simplifying Model Context Protocol (MCP) Server Distribution with .NET Global Tools](https://nikiforovall.github.io/dotnet/2025/04/02/mcp-template-getting-started.html)
+- [mcp-workshop-dotnet](https://github.com/Azure-Samples/mcp-workshop-dotnet) - This provides workshop materials using official MCP SDK
