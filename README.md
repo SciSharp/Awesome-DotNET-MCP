@@ -70,6 +70,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [DBChatPro](https://github.com/alex-wolf-ps/dbchatpro) - DBChatPro is an application designed to facilitate seamless communication with your database.
 - [AvaloniaUI.MCP](https://github.com/decriptor/AvaloniaUI.MCP) - Professional Model Context Protocol Server for AvaloniaUI Development
 - [SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
+- [MCPFlow](https://github.com/jonathanfavorite/MCPFlow) -  lightweight .NET library for returning structured plans from your MCP tools so agents like Cursor can: plan → ask for approval → execute → follow up
 
 #### Official
 - [FileSystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
