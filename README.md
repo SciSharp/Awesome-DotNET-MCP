@@ -71,6 +71,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [AvaloniaUI.MCP](https://github.com/decriptor/AvaloniaUI.MCP) - Professional Model Context Protocol Server for AvaloniaUI Development
 - [SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 - [MCPFlow](https://github.com/jonathanfavorite/MCPFlow) -  lightweight .NET library for returning structured plans from your MCP tools so agents like Cursor can: plan → ask for approval → execute → follow up
+- [acs-email-mcp-server](https://github.com/lukemurraynz/acs-email-mcp-server) - This project is a C# .NET 8 MCP (Model Context Protocol) server, designed to run as an Azure Functions custom handler. It provides advanced email automation tools using Azure Communication Services (ACS), with support for templates, attachments, and robust error handling.
 
 #### Official
 - [FileSystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
