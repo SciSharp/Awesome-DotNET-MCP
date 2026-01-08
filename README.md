@@ -128,6 +128,11 @@ All current MCP servers are not in one language. Here is a list from official re
 - [koala-ai](https://token-ai.cn/koala-ai) - KoalaAI is a cross-platform desktop application designed to provide users with a friendly interface for interacting with large language models (LLMs).
 - [Unla](https://github.com/AmoyLab/Unla) - A lightweight gateway service that instantly transforms existing APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications
 
+
+### AI Coding Tool
+- [McpManager](https://github.com/JerrettDavis/McpManager) - Manage your MCP Servers for all your agents in one place
+- [Spec Coding MCP Server](https://github.com/feiyun0112/spec-coding-mcp) - Transform feature ideas into production-ready code through systematic Spec-Driven Development
+
 ### Community
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/samples/Demos/ModelContextProtocol) - Support for Semantic kernel.
 - [MCP Installer](https://github.com/anaisbetts/mcp-installer) - A server that installs other MCP servers for you.
