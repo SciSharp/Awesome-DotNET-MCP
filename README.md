@@ -73,6 +73,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [MCPFlow](https://github.com/jonathanfavorite/MCPFlow) -  lightweight .NET library for returning structured plans from your MCP tools so agents like Cursor can: plan → ask for approval → execute → follow up
 - [acs-email-mcp-server](https://github.com/lukemurraynz/acs-email-mcp-server) - This project is a C# .NET 8 MCP (Model Context Protocol) server, designed to run as an Azure Functions custom handler. It provides advanced email automation tools using Azure Communication Services (ACS), with support for templates, attachments, and robust error handling.
 - [dotnet-mcp-ortools](https://github.com/dks50217/dotnet-mcp-ortools) - Model Context Protocol (MCP) server using Google OR-Tools for constraint solving
+- [MCP-Plugin-dotnet](https://github.com/IvanMurzak/MCP-Plugin-dotnet) -It allows you to easily expose methods and data from your .NET applications as Tools, Prompts, and Resources to AI assistants (like Claude) and other MCP clients
 
 #### Official
 - [FileSystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
