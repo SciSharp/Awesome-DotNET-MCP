@@ -35,7 +35,7 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 
 ## MCP apps
 - [query-craft-mcp](https://github.com/AM10101010/query-craft-mcp) - An MCP App that lets Claude transform natural language into OData v4 queries by grounding requests in service metadata
-- 
+- [mcpapp-colorpicker](https://github.com/elbruno/mcpapp-colorpicker) - A Model Context Protocol (MCP) App built with .NET that provides an interactive color picker with a rich UI
 
 ## Servers
 
