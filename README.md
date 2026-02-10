@@ -33,6 +33,10 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 - [Go](https://github.com/mark3labs/mcp-go) - Community-driven Go adaptation of offcials SDK. **:warning: Under development**.
 - [FastMCP](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers capable of handling client sessions.
 
+## MCP apps
+- [query-craft-mcp](https://github.com/AM10101010/query-craft-mcp) - An MCP App that lets Claude transform natural language into OData v4 queries by grounding requests in service metadata
+- 
+
 ## Servers
 
 All current MCP servers are not in one language. Here is a list from official repository with associated programming languages.
@@ -74,6 +78,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [acs-email-mcp-server](https://github.com/lukemurraynz/acs-email-mcp-server) - This project is a C# .NET 8 MCP (Model Context Protocol) server, designed to run as an Azure Functions custom handler. It provides advanced email automation tools using Azure Communication Services (ACS), with support for templates, attachments, and robust error handling.
 - [dotnet-mcp-ortools](https://github.com/dks50217/dotnet-mcp-ortools) - Model Context Protocol (MCP) server using Google OR-Tools for constraint solving
 - [MCP-Plugin-dotnet](https://github.com/IvanMurzak/MCP-Plugin-dotnet) -It allows you to easily expose methods and data from your .NET applications as Tools, Prompts, and Resources to AI assistants (like Claude) and other MCP clients
+- [CrestApps.AgentSkills](https://github.com/CrestApps/CrestApps.AgentSkills) - Shared AI agent skills and MCP tooling for .NET applications and Orchard Core based projects. The repository contains three projects that solve distinct problems
 
 #### Official
 - [FileSystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
