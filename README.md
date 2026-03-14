@@ -81,6 +81,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [CrestApps.AgentSkills](https://github.com/CrestApps/CrestApps.AgentSkills) - Shared AI agent skills and MCP tooling for .NET applications and Orchard Core based projects. The repository contains three projects that solve distinct problems
 - [C# Openscad MCP](https://github.com/WaromiV/openscad-ai-cs) - HTTP MCP server in C# that renders OpenSCAD models into deterministic multi-view PNG images for LLM tool consumption
 - [McpServer-In-Docker](https://github.com/ravindersirohi/McpServer-In-Docker) -MCP server with Azure Function app running inside docker container, exposing two tools for LLM use.
+- [WeatherMCPDemo](https://github.com/toreaurstadboss/WeatherMCPDemo) - Weather MCP Demo Using the Model Context Protocol for AI chat based tool powered apps
 
 #### Official
 - [FileSystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
