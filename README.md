@@ -140,6 +140,7 @@ All current MCP servers are not in one language. Here is a list from official re
 ### AI Coding Tool
 - [McpManager](https://github.com/JerrettDavis/McpManager) - Manage your MCP Servers for all your agents in one place
 - [Spec Coding MCP Server](https://github.com/feiyun0112/spec-coding-mcp) - Transform feature ideas into production-ready code through systematic Spec-Driven Development
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json
 
 ### Community
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/samples/Demos/ModelContextProtocol) - Support for Semantic kernel.
