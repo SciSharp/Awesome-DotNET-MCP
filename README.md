@@ -82,6 +82,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [McpServer-In-Docker](https://github.com/ravindersirohi/McpServer-In-Docker) -MCP server with Azure Function app running inside docker container, exposing two tools for LLM use.
 - [WeatherMCPDemo](https://github.com/toreaurstadboss/WeatherMCPDemo) - Weather MCP Demo Using the Model Context Protocol for AI chat based tool powered apps
 - [tomasfil/blazedex](https://github.com/tomasfil/blazedex) - Blazor/Razor MCP server for .NET 10. Roslyn-backed indexing resolves component usages, event handlers, and routes to exact `.razor:line:col` via the Razor source generator's `#line` directives. 20 tools across discovery, usage tracing, API introspection, quality lints (render-mode conflicts, dead routes, unused components), and one safe edit. Elastic License 2.0 (source-available).
+- [GameDev-MCP-Server](https://github.com/IvanMurzak/GameDev-MCP-Server) - Engine-agnostic MCP server exposing game-engine editor and runtime tools to AI agents, connecting Unity, Godot, and Unreal; the Unity-MCP/Godot-MCP/Unreal-MCP engine plugins built on it are open-source (Apache-2.0, public repos).
 
 #### Official
 - [FileSystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
