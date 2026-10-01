@@ -35,6 +35,9 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 ## MCP apps
 - [query-craft-mcp](https://github.com/AM10101010/query-craft-mcp) - An MCP App that lets Claude transform natural language into OData v4 queries by grounding requests in service metadata
 - [mcpapp-colorpicker](https://github.com/elbruno/mcpapp-colorpicker) - A Model Context Protocol (MCP) App built with .NET that provides an interactive color picker with a rich UI
+- [SqliteMcp](https://github.com/anuraj/SqliteMcp) -A .NET Model Context Protocol (MCP) server for SQLite database operations. Enables AI agents and LLMs to interact with SQLite databases through a standardized MCP interface.
+- [mcp-database-query-app](https://github.com/Trojaner/mcp-database-query-app) - MCP App for Querying and Managing Databases (with UI support in e.g. Claude Desktop!)
+
 
 ## Servers
 
@@ -84,6 +87,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Connapse](https://github.com/Destrayon/Connapse) - Self-hosted knowledge backend for AI agents with hybrid vector + keyword search, container-isolated indexes, and 11 MCP tools
 - [tomasfil/blazedex](https://github.com/tomasfil/blazedex) - Blazor/Razor MCP server for .NET 10. Roslyn-backed indexing resolves component usages, event handlers, and routes to exact `.razor:line:col` via the Razor source generator's `#line` directives. 20 tools across discovery, usage tracing, API introspection, quality lints (render-mode conflicts, dead routes, unused components), and one safe edit. Elastic License 2.0 (source-available).
 - [GameDev-MCP-Server](https://github.com/IvanMurzak/GameDev-MCP-Server) - Engine-agnostic MCP server exposing game-engine editor and runtime tools to AI agents, connecting Unity, Godot, and Unreal; the Unity-MCP/Godot-MCP/Unreal-MCP engine plugins built on it are open-source (Apache-2.0, public repos).
+- [solidworks_mcp](https://github.com/lqepoch/solidworks_mcp) - SolidWorksMcp 是一款计划中的 .NET 10/C# 企业级 MCP 服务器和确定性工程绘图编译器，适用于授权的本地安装 SOLIDWORKS。该项目有意以小规模、可测试的问题驱动增量构建。
 
 #### Official
 - [FileSystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
