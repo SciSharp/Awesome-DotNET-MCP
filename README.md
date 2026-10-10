@@ -88,6 +88,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [tomasfil/blazedex](https://github.com/tomasfil/blazedex) - Blazor/Razor MCP server for .NET 10. Roslyn-backed indexing resolves component usages, event handlers, and routes to exact `.razor:line:col` via the Razor source generator's `#line` directives. 20 tools across discovery, usage tracing, API introspection, quality lints (render-mode conflicts, dead routes, unused components), and one safe edit. Elastic License 2.0 (source-available).
 - [GameDev-MCP-Server](https://github.com/IvanMurzak/GameDev-MCP-Server) - Engine-agnostic MCP server exposing game-engine editor and runtime tools to AI agents, connecting Unity, Godot, and Unreal; the Unity-MCP/Godot-MCP/Unreal-MCP engine plugins built on it are open-source (Apache-2.0, public repos).
 - [solidworks_mcp](https://github.com/lqepoch/solidworks_mcp) - SolidWorksMcp 是一款计划中的 .NET 10/C# 企业级 MCP 服务器和确定性工程绘图编译器，适用于授权的本地安装 SOLIDWORKS。该项目有意以小规模、可测试的问题驱动增量构建。
+- [postgresql-sharp-mcp](https://github.com/codegiveness/postgresql-sharp-mcp) - PostgreSQL MCP server in C# with Npgsql for AI assistants: live database discovery, schema inspection, SQL that is read-only by default, EXPLAIN plans with optional HypoPG what-if indexes, index analysis and health checks. Ships as a .NET tool, an npm package and self-contained archives.
 
 #### Official
 - [FileSystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Secure file operations with configurable access controls.
