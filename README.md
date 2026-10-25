@@ -164,3 +164,6 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Integrating Model Context Protocol Tools with Semantic Kernel: A Step-by-Step Guide](https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/)
 - [Simplifying Model Context Protocol (MCP) Server Distribution with .NET Global Tools](https://nikiforovall.github.io/dotnet/2025/04/02/mcp-template-getting-started.html)
 - [mcp-workshop-dotnet](https://github.com/Azure-Samples/mcp-workshop-dotnet) - This provides workshop materials using official MCP SDK
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
+- [BountyGuard](https://github.com/doomsday-network/bounty-guard) - Zero-dependency MCP security server & CLI auditor that verifies on-chain bounty escrow before AI agents start work.
