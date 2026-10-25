@@ -31,6 +31,7 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 ### Community
 - [Go](https://github.com/mark3labs/mcp-go) - Community-driven Go adaptation of offcials SDK. 
 - [FastMCP](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers capable of handling client sessions.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## MCP apps
 - [query-craft-mcp](https://github.com/AM10101010/query-craft-mcp) - An MCP App that lets Claude transform natural language into OData v4 queries by grounding requests in service metadata
