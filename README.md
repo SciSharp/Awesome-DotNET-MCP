@@ -133,6 +133,10 @@ All current MCP servers are not in one language. Here is a list from official re
 ### Go
 - [Filesystem](https://github.com/mark3labs/mcp-filesystem-server) - File operations with configurable access controls.
 
+### TypeScript
+
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local stdio MCP tools for x402 offer inspection, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only.
+
 ## Tools
 
 ### Official
