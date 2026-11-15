@@ -157,6 +157,8 @@ All current MCP servers are not in one language. Here is a list from official re
 - [McpServerToolGenerator/](https://github.com/dotnetspark/McpServerToolGenerator/) - McpServerToolsGenerator is a Roslyn incremental source generator for C# that automatically generates static tool classes for server-side tools in the ModelContextProtocol (MCP) ecosystem
 
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for querying small live-music venues and booking contacts across all 50 US states ([directory](https://nostairsplease.com/), [venues](https://nostairsplease.com/venues)).
+
 ## Learns
 
 ### Articles
