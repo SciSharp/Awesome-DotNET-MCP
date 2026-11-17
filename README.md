@@ -108,6 +108,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Interact with your crash reporting and real using monitoring data on your Raygun account.
 - [Kagi](https://github.com/ac3xx/mcp-servers-kagi) - A Model Context Protocol server implementation for Kagi's API.
 - [Exa.ai](https://github.com/theishangoswami/exa-mcp-server) - Use the Exa AI Search API for web searches.
+- [SpecStream](https://specstream.ai/docs/mcp) - Live web data engine with Search and Extract APIs.
 - [Youtube](https://github.com/anaisbetts/mcp-youtube) - Uses `yt-dlp` to download subtitles from YouTube.
 - [AppleScript](https://github.com/joshrutkowski/applescript-mcp) - Implements interaction with macOS via AppleScript.
 - [Make](https://github.com/integromat/make-mcp-server) - Turn Make scenarios into callable tools for AI assistants.
