@@ -155,6 +155,7 @@ All current MCP servers are not in one language. Here is a list from official re
 - [Fast MCP](https://github.com/jlowin/fastmcp) - Create tools, expose resources, and define prompts with clean Pythonic code.
 - [MCPP.NET](https://github.com/xuzeyu91/MCPP.Net) - MCPP.Net is an implementation of the Model Context Protocol (MCP) server based on.NET 8, which supports dynamically converting Swagger APIs into MCP tools, enabling AI tools to call these APIs via the MCP protocol.
 - [McpServerToolGenerator/](https://github.com/dotnetspark/McpServerToolGenerator/) - McpServerToolsGenerator is a Roslyn incremental source generator for C# that automatically generates static tool classes for server-side tools in the ModelContextProtocol (MCP) ecosystem
+- [McpProbe](https://github.com/ShmueLior/mcpprobe) - Test kit and CLI for .NET MCP servers: in-memory host, assertions, tool-surface snapshots, and lint.
 
 
 ## Learns
